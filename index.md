@@ -43,6 +43,7 @@ As a second-line analyst for HBOS (now part of Lloyds Banking Group), my role re
 **Achievements:**  I enjoyed a development-related slant on my role, coding JavaScript driven dynamic webforms for use in-house, as well as being responsible for creating the specification of an in-house text processing and formatting tool, and managing its testing during development.
 
 ## Professional Activities
+- Editor, [Journal of Open Source Software](http://joss.theoj.org/about#editorial_board)
 - Channel Editor - [PLOS Open Source Toolkit](https://channels.plos.org/open-source-toolkit) (2018 - ongoing)
 - Board Member - Open Bioinformatics Foundation (2018)
 - Fellow - Software Sustainability Institute - [software.ac.uk](http://www.software.ac.uk) (2018 - ongoing)
