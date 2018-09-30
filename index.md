@@ -1,4 +1,11 @@
-# Yo Yehudi – Developer and Community Lead
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+title: Yo Yehudi - Developer and Community Lead
+---
+
 
 ## About me
 Born in New Zealand and having lived previously in Israel and the USA, I have quite an exotic background. I'm now happily settled in the UK with full British citizenship. Most recently I've had a mix of academic, technical project management and developer roles. In my spare time you’ll probably find me outdoors on my bike or with my nose buried in a book.
@@ -7,13 +14,14 @@ Born in New Zealand and having lived previously in Israel and the USA, I have qu
 ### Writing
 Grant and business proposals, papers and research deliverables, technical documentation. Community outreach & blogging, particularly when open source oriented.
 ### Technical
-Clojure/ClojureScript, HTML5 and CSS3, Javascript (and popular libraries such as React, Angular, jQuery), Java, Tomcat, Maven, Spring MVC, Postgres, Android. Managing public releases and communities of Open Source projects.
+Clojure/ClojureScript, HTML5 and CSS3, Javascript (and popular libraries such as React, Angular, jQuery), Java, Tomcat, Maven, Spring MVC, PostgreSQL, Git, Continuous integration, testing. Managing public releases and communities of Open Source projects.
 [GitHub profile: https://github.com/yochannah](https://github.com/yochannah )
 
-## Recent Experience
+## Recent Experience  
 
-### InterMine, Department of Genetics, University of Cambridge - Software Engineer (July 2015 - Ongoing)
-I currently work on the open source project InterMine [http://intermine.org/](http://intermine.org/), specifically developing InterMine’s new Clojure/ClojureScript-based user interface, BlueGenes [http://bluegenes.apps.intermine.org/](http://bluegenes.apps.intermine.org/). My activities range from early requirements gathering and mockups to user testing, development, and release.
+### University of Cambridge - Software Engineer
+_July 2015 - Ongoing_  
+I currently work on the open source project InterMine [http://intermine.org/](http://intermine.org/), based at the Department of Genetics in Cambridge, developing InterMine’s new Clojure/ClojureScript-based user interface, BlueGenes [http://bluegenes.apps.intermine.org/](http://bluegenes.apps.intermine.org/). My activities range from early requirements gathering and mockups to user testing, development, and release.
 As well as my technical duties, I enjoy my role as community manager for active social media streams (Twitter: [@intermineorg](http://www.twitter.com/intermineorg), [@gmodproject](http://www.twitter.com/gmodproject)) and the InterMine blog [https://intermineorg.wordpress.com/](https://intermineorg.wordpress.com/). I manage InterMine’s participation in the 2017 and 2018 Google Summer of Code, as an organisation administrator and mentor.
 
 ### CapitalOne - Senior Associate Software Engineer
@@ -23,7 +31,8 @@ As a software engineer at CapitalOne I was part of an Agile team responsible for
 ## Project Lead and Developer - K-Now
 _(Jan 2013 - July 2014)_  
 As Project Lead, I was responsible for client and partner liaison, in both commercial projects and multimillion Euro EU research projects. I regularly represented K-Now in conferences, exhibitions, and meetings both in the UK and abroad. I also contributed to research project deliverables, created business proposals for potential clients, and oversaw technical exercises.
-#### Achievements include:
+
+#### Achievements include  
 - Overseeing the development and successful technical deployment of Android and Web software used by 50-60 volunteers during a WWII bomb disposal evacuation of 27,000 people in Vicenza, Italy.
 - Successfully challenging an iOS App Store listing refusal (due to purported copyright reasons), working against slim deadlines and preventing the loss of a large contract.
 - Completing technical implementation of a network-visualisation software contract with a large aerospace manufacturer based in Derby. This lead to K-Now successfully gaining an extension, generating further revenue for the company.
@@ -31,7 +40,7 @@ As Project Lead, I was responsible for client and partner liaison, in both comme
 My responsibilities included design and development of K-Now's data visualisation platform, primarily from the front end using Javascript and popular libraries, including jQuery, Underscore, D3.js and Highcharts. This platform was successfully used in multiple commercial endeavours.
 I also enjoyed working as an Android developer, learning standard Android design patterns and methodologies. Several of the applications I worked on were available on the Google Play store.
 
-### Front End Web Manager - MattressOnline.co.uk
+### Front End Web Manager - MattressOnline.co.uk
 _(Jan 2011 - Dec 2012)_  
 Front-end web manager: I have experience dealing with all aspects of the front end of a growing web company, from on-page SEO, to graphical content creation, analytics reporting and copywriting.
 While I inherited the incumbent MattressOnline site, I was able to design and implement the front ends of several specialist satellite sites to target specific brands. The majority of my work was carried out in PHP, JavaScript, XML, and Photoshop. The role was design-heavy,  and some of my graphical work can be found here: [https://www.behance.net/yoyehudi/](https://www.behance.net/yoyehudi/)  
@@ -63,16 +72,13 @@ As a second-line analyst for HBOS (now part of Lloyds Banking Group), my role re
 - [Code is Science Mini-Workshop](https://www.software.ac.uk/cw18-mini-workshops-and-demos-sessions) - Software Sustainability Institute Collaborations Workshop 2018.
     - Third place hackday award and third place ideas session award.
 - [Open Data Day Cambridge 2018](https://www.software.ac.uk/blog/2018-04-10-open-data-day-cambridge) organiser - co-organised with Naomi Penfold.
-- MozFest Facilitator - Open Innovation space, ran “Science needs open source code - culture shift innovation workshop” (2017)
+- MozFest Facilitator - Open Innovation space, ran "Science needs open source code - culture shift innovation workshop" (2017)
 - [I'm a Scientist, Get Me Out Of Here](https://imascientist.org.uk/) - finalist, Neptunium Zone (2017)
 
-## Education and Qualifications
+## Education and Qualifications
 
 - BSc (First class honours) in Computing & IT, Open University. 2008–2015 (Distance learning whilst working full time)
 - Certificate in Web Applications Development, Open University. Completed Sep 2008
 
 ## Personal Interests
-My hobbies include crafts, running, cycling, and open source software. I’ve participated in the RBS Caledonian Challenge (42 miles on foot in one night) for charity, completed a solo Coast to Coast cycle ride, and ridden 105 miles overnight for the British Heart Foundation. I'm also an active member of the StackExchange community.
-
-## Contact:
-Email: yochannah@gmail.com
+My hobbies include crafts, running, cycling, and open source software. I've participated in the RBS Caledonian Challenge (42 miles on foot in one night) for charity, completed a solo Coast to Coast cycle ride, and ridden 105 miles overnight for the British Heart Foundation. I'm also an active member of the StackExchange community.
