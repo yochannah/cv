@@ -12,7 +12,7 @@ My claim to fame: I have three passports. I'm now happily settled in the UK with
 
 ## Skills & Competencies
 ### Community 
-Hosting collaborative community calls, running and developing training workshops, managing open source issues and pull requests via [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and [First-Timers-Only](https://www.firsttimersonly.com/), managing intern programs such as [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Outreachy](https://www.outreachy.org/), organising conferences ([MozFest 2018 Openness space wrangler](https://www.mozillafestival.org/), [BOSC 2019 organising committee](https://www.open-bio.org/events/bosc/)). [Open Source and Git training for newbies](https://github.com/open-source-for-researchers).
+Hosting collaborative community calls, running and developing [training workshops](Open Source Program Manager), managing open source issues and pull requests via [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and [First-Timers-Only](https://www.firsttimersonly.com/), managing intern programs such as [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Outreachy](https://www.outreachy.org/), organising conferences ([MozFest 2018 Openness space wrangler](https://www.mozillafestival.org/), [BOSC 2019 organising committee](https://www.open-bio.org/events/bosc/)). [Open Source and Git training for newbies](https://github.com/open-source-for-researchers).
 ### Writing
 Grant and business proposals, papers and research deliverables, technical documentation. Sponsorship requests. Community outreach & blogging, particularly when open source oriented.
 ### Technical
@@ -92,3 +92,5 @@ As a second-line analyst for HBOS (now part of Lloyds Banking Group), my role re
 
 ## Personal Interests
 My hobbies include crafts, running, cycling, and open source software. I've participated in the RBS Caledonian Challenge (42 miles on foot in one night) for charity, completed a solo Coast to Coast cycle ride, and ridden 105 miles overnight for the British Heart Foundation. I'm also an active member of the StackExchange community.
+
+This CV is available in markdown with clickable links at [yochannah.github.io/cv/](https://yochannah.github.io/cv/)
