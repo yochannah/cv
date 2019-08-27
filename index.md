@@ -27,7 +27,9 @@ I currently work on the open source project InterMine [http://intermine.org/](ht
 As well as my technical duties, I enjoy my role as community manager, running community calls, encoraging community open source contributions, designing and delivering training workshops, and maintaining social media streams (Twitter: [@intermineorg](http://www.twitter.com/intermineorg), [@gmodproject](http://www.twitter.com/gmodproject)) and the InterMine blog [https://intermineorg.wordpress.com/](https://intermineorg.wordpress.com/). I led InterMine’s participation in Google Summer of Code (2017, 2018, and 2019) as an organisation administrator and mentor. 
 #### Achievements include 
 - Successfully keeping ongoing engagement from previous Google Summer of Code students - five out of out six 2018 students returned as mentors, interns, or staff members in 2019. 
-- Highly effective community engagement via open source contributions - our last two team hires (on a stable, small team of seven with little turnober) have been either GSoC students or Hacktoberfest contributors. 
+- Highly effective community engagement via open source contributions - our last two team hires (on a stable, small team of seven with little turnover) have been either GSoC students or Hacktoberfest contributors. 
+- Implemented a [Code of Conduct](http://intermine.org/code-of-conduct/) for the InterMine projects.
+- Created an open-source cross-repository Github open ticket portal to help new contributors find issues suitable for their skills ([source](https://github.com/yochannah/first-ticket-finder), [demo](http://intermine.org/contributing/))
 
 ### CapitalOne - Senior Associate Software Engineer
 _(August 2014 - July 2015)_  
