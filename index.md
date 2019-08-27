@@ -16,7 +16,7 @@ Hosting collaborative community calls, running and developing [training workshop
 ### Writing
 Grant and business proposals, papers and research deliverables, technical documentation. Sponsorship requests. Community outreach & blogging, particularly when open source oriented.
 ### Technical
-Clojure/ClojureScript, HTML5 and CSS3, Javascript (and popular libraries such as React, Angular, jQuery), Java, Tomcat, Maven, Spring MVC, PostgreSQL, Git, Continuous integration, testing. Managing public releases and communities of Open Source projects.
+Clojure/ClojureScript, HTML5 and CSS3, Javascript (and popular libraries such as React, Angular, jQuery), Java, Tomcat, R, Python, PostgreSQL, Git, Continuous integration, testing. Managing public releases and communities of Open Source projects.
 [GitHub profile: https://github.com/yochannah](https://github.com/yochannah)
 
 ## Recent Experience  
