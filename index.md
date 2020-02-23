@@ -68,7 +68,7 @@ As a second-line analyst for HBOS (now part of Lloyds Banking Group), my role re
 - Lead Instructor - [CodeFirst: Girls beginners coding course](https://www.codefirstgirls.org.uk/) (2017 - 2019)
 
 ## Events, Talks and Workshops
-- [SSI Collaborations Workshop 2020](Upcoming) Mini workshop - [Open Life Science: Empowering communities with open* principles](https://software.ac.uk/cw20/mini-workshops-and-demo-sessions)
+- [SSI Collaborations Workshop 2020](https://software.ac.uk/cw20) (Upcoming) Mini workshop - [Open Life Science: Empowering communities with open* principles](https://software.ac.uk/cw20/mini-workshops-and-demo-sessions)
 - [CHAOSSCon 2020](https://chaoss.community/chaosscon-2020-eu/) - Talk - Open and Reproducible Research with Community-driven Research Software Metrics (Co-facilitated with Emmy Tsang & Mateusz Kuzak)
 - [PAG 2020](https://plan.core-apps.com/pag_2020/event/24647d2a9d9fb82ee81fa3e79dc0eae4) Talk - Integrated Data and Cross-Organism Queries with InterMine. 
 - [MozFest 2019](https://mozillafestival.org) Facilitator - Openness space, ran several collaborative sessions - "Exhausted imposters and superstar masks", "[Design your own mentorship program](https://foundation.mozilla.org/en/blog/lets-build-an-effective-mentorship-programme-together/)", presented at the Mozilla Open Leaders launch party, and science festival. 
