@@ -1,7 +1,4 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: Yo Yehudi - Developer and Community Lead
 ---
@@ -60,6 +57,7 @@ _(Mar 07 - Dec 10)_
 As a second-line analyst for HBOS (now part of Lloyds Banking Group), my role revolved around resolving IT faults for users swiftly and efficiently. When possible I talked the users through a resolution on the phone, or remotely accessed their PC. If necessary, I’d dispatch an engineer with appropriate hardware replacements parts. I have particular experience with HP PCs, laptops, and laser printers. My role required strong organisational and documentation skills and familiarity/adherence with existing procedures.  
 
 ## Professional Activities
+- Co-founder, [Open Life Science](https://openlifesci.org/) (2019-ongoing)
 - Emeritus Editor, [Journal of Open Source Software](http://joss.theoj.org/about#editorial_board) (2018-2019)
 - Channel Editor - [PLOS Open Source Toolkit](https://channels.plos.org/open-source-toolkit) (2018 - ongoing)
 - Board Member - Open Bioinformatics Foundation (2018)
@@ -70,7 +68,10 @@ As a second-line analyst for HBOS (now part of Lloyds Banking Group), my role re
 - Lead Instructor - [CodeFirst: Girls beginners coding course](https://www.codefirstgirls.org.uk/) (2017 - 2019)
 
 ## Events, Talks and Workshops
-- Upcoming invited talk - Django Girls Cambridge. (October 2019)
+- [SSI Collaborations Workshop 2020](Upcoming) Mini workshop - [Open Life Science: Empowering communities with open* principles](https://software.ac.uk/cw20/mini-workshops-and-demo-sessions)
+- [CHAOSSCon 2020](https://chaoss.community/chaosscon-2020-eu/) - Talk - Open and Reproducible Research with Community-driven Research Software Metrics (Co-facilitated with Emmy Tsang & Mateusz Kuzak)
+- [PAG 2020](https://plan.core-apps.com/pag_2020/event/24647d2a9d9fb82ee81fa3e79dc0eae4) Talk - Integrated Data and Cross-Organism Queries with InterMine. 
+- [MozFest 2019](https://mozillafestival.org) Facilitator - Openness space, ran several collaborative sessions - "Exhausted imposters and superstar masks", "[Design your own mentorship program](https://foundation.mozilla.org/en/blog/lets-build-an-effective-mentorship-programme-together/)", presented at the Mozilla Open Leaders launch party, and science festival. 
 - [Galaxy Community Conference 2019](https://gcc2019.sched.com/) - Training session - [Handling integrated biological data using Python, Jupyter, and InterMine](http://intermine.org/training-workshops/2019/2019-07-04-gcc-overview)
 - [Galaxy Community Conference 2019](https://gcc2019.sched.com/) - Training workshop - [Making your open source software awesome](https://open-source-for-researchers.github.io/make-your-project-awesome/). 
 - [Contributing to open source and working with GitHub](https://open-source-for-researchers.github.io/open-source-workshop/schedule) - Interactive workshop at the University of Sheffield. [Blog Report](https://software.ac.uk/blog/2019-01-08-how-contribute-open-source-software)
