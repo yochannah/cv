@@ -8,24 +8,26 @@ title: Yo Yehudi - Developer and Community Lead
 
 
 ## About me
-My claim to fame: I have three passports. I'm now happily settled in the UK with full British citizenship. Most recently I've had a mix of community-oriented, academic, technical project management and developer roles. In my spare time you’ll probably find me outdoors on my bike or with my nose buried in a book.
+My claims to fame: I have three passports, and I once assisted in a WW2 bomb disposal. I'm now happily settled in the UK with full British citizenship. Most recently I've had a mix of community-oriented, academic, technical project management and developer roles. In my spare time you’ll probably find me outdoors on my bike or with my nose buried in a book.
 
 ## Skills & Competencies
 ### Community 
-Hosting collaborative community calls, running and developing [training workshops](Open Source Program Manager), managing open source issues and pull requests via [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and [First-Timers-Only](https://www.firsttimersonly.com/), managing intern programs such as [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Outreachy](https://www.outreachy.org/), organising conferences ([MozFest 2018 Openness space wrangler](https://www.mozillafestival.org/), [BOSC 2019 organising committee](https://www.open-bio.org/events/bosc/)). [Open Source and Git training for newbies](https://github.com/open-source-for-researchers).
+Community and project management at various different scales, ranging from co-founding and running the [Open Life Science](https://openlifesci.org/) (https://openlifesci.org/) open training program for academics, hosting collaborative community calls, running and developing [training workshops](http://intermine.org/training-workshops/), managing open source issues and pull requests via [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and [First-Timers-Only](https://www.firsttimersonly.com/), managing intern programs such as [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Outreachy](https://www.outreachy.org/), organising conferences ([MozFest 2018 Openness space wrangler](https://www.mozillafestival.org/), [BOSC 2019 organising committee](https://www.open-bio.org/events/bosc/)). [Open Source and Git training for newbies](https://open-source-for-researchers.github.io/open-source-workshop/).
 ### Writing
-Grant and business proposals, papers and research deliverables, technical documentation. Sponsorship requests. Community outreach & blogging, particularly when open source oriented.
+Grant and business proposals, papers and research deliverables, technical documentation. Sponsorship requests. Community outreach & blogging, particularly when open source oriented. 
 ### Technical
-Clojure/ClojureScript, HTML5 and CSS3, Javascript (and popular libraries such as React, Angular, jQuery), Java, Tomcat, R, Python, PostgreSQL, Git, Continuous integration, testing. Managing public releases and communities of Open Source projects.
+Javascript (and popular libraries such as React, Angular, jQuery), Clojure/ClojureScript, HTML5 and CSS3, Java, Tomcat, R, Python, PostgreSQL, Git, Continuous integration, testing. UX/UI design and testing. Managing public releases and communities of Open Source projects.
 [GitHub profile: https://github.com/yochannah](https://github.com/yochannah)
 
 ## Recent Experience  
 
-### University of Cambridge - Software Engineer
+### University of Cambridge - Software Engineer and Community Manager
 _July 2015 - Ongoing_  
-I currently work on the open source project InterMine [http://intermine.org/](http://intermine.org/), based at the Department of Genetics in Cambridge, developing InterMine’s new Clojure/ClojureScript-based user interface, BlueGenes [http://bluegenes.apps.intermine.org/](http://bluegenes.apps.intermine.org/). My activities range from early requirements gathering and mockups to user testing, development, and release.
-As well as my technical duties, I enjoy my role as community manager, running community calls, encoraging community open source contributions, designing and delivering training workshops, and maintaining social media streams (Twitter: [@intermineorg](http://www.twitter.com/intermineorg), [@gmodproject](http://www.twitter.com/gmodproject)) and the InterMine blog [https://intermineorg.wordpress.com/](https://intermineorg.wordpress.com/). I led InterMine’s participation in Google Summer of Code (2017, 2018, and 2019) as an organisation administrator and mentor. 
+I currently work on the open source project InterMine [http://intermine.org/](http://intermine.org/), based at the Department of Genetics in Cambridge. When I joined, my focus was on developing InterMine’s new Clojure/ClojureScript-based user interface, BlueGenes [http://bluegenes.apps.intermine.org/](http://bluegenes.apps.intermine.org/). My activities ranged from early requirements gathering and mockups to user testing, development, and release. Over time, I picked up a more community-management oriented role, running community calls, encoraging community open source contributions, designing and delivering training workshops, and maintaining social media streams (Twitter: [@intermineorg](http://www.twitter.com/intermineorg)) and the InterMine blog [https://intermineorg.wordpress.com/](https://intermineorg.wordpress.com/). I lead InterMine’s participation in Google Summer of Code (2017, 2018, and 2019) as an organisation administrator and mentor. 
+
 #### Achievements include 
+- Lead-authored a Wellcome Diversity Enrichment grant (Awarded in 2019 to Gos Micklem, the InterMine PI) to recruit three Outreachy interns. 
+- Authored two ELIXIR staff exchange grants (awarded 2019).
 - Successfully keeping ongoing engagement from previous Google Summer of Code students - five out of out six 2018 students returned as mentors, interns, or staff members in 2019. 
 - Highly effective community engagement via open source contributions - our last two team hires (on a stable, small team of seven with little turnover) have been either GSoC students or Hacktoberfest contributors. 
 - Implemented a [Code of Conduct](http://intermine.org/code-of-conduct/) for the InterMine projects.
