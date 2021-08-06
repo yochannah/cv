@@ -19,7 +19,7 @@ Javascript (and popular libraries such as React, Angular, jQuery), Clojure/Cloju
 ## Recent Experience  
 
 ### Open Life Science - co-founder
-_July 2019 - ongoing_ 
+_July 2019 - ongoing_  
 Open Life Science is a training and mentoring organisation dedicated to advancing equitable open science by training and mentoring open science ambassadors. We run 16-week programs teaching participants about the basics of open science tooling and community building. Participants come from varied backgrounds including research software, hardware, wet lab, social sciences, anthropology and archaeology, and more. Our community currently has over 250 participants, mentors, and open science experts, and has trained 147 program participants to date. The fourth iteration will launch in September 2021. 
 
 ### Wellcome Trust - Open Source Technology Lead, Data For Science and Health
