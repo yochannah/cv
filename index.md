@@ -9,7 +9,7 @@ My claims to fame: I have three passports, and I once assisted in a WW2 bomb dis
 
 ## Skills & Competencies
 ### Community 
-Community and project management at various different scales, ranging from co-founding and running the [Open Life Science](https://openlifesci.org/) (https://openlifesci.org/) open training program for academics, hosting collaborative community calls, running and developing [training workshops](http://intermine.org/training-workshops/), managing open source issues and pull requests via [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and [First-Timers-Only](https://www.firsttimersonly.com/), managing intern programs such as [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Outreachy](https://www.outreachy.org/), organising conferences ([MozFest 2018 Openness space wrangler](https://www.mozillafestival.org/), [BOSC 2019 organising committee](https://www.open-bio.org/events/bosc/)). [Open Source and Git training for newbies](https://open-source-for-researchers.github.io/open-source-workshop/).
+Community, technical, and project management at various different scales, ranging from co-founding and running the [Open Life Science](https://openlifesci.org/) (https://openlifesci.org/) open training program for academics, hosting collaborative community calls, running and developing [training workshops](http://intermine.org/training-workshops/), managing open source issues and pull requests via [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and [First-Timers-Only](https://www.firsttimersonly.com/), managing intern programs such as [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Outreachy](https://www.outreachy.org/), organising conferences ([MozFest 2018 Openness space wrangler](https://www.mozillafestival.org/), [BOSC 2019 and 2020 organising committee](https://www.open-bio.org/events/bosc/)). [Open Source and Git training for newbies](https://open-source-for-researchers.github.io/open-source-workshop/).
 ### Writing
 Grant and business proposals, papers and research deliverables, technical documentation. Sponsorship requests. Community outreach & blogging, particularly when open source oriented. 
 ### Technical
@@ -18,9 +18,18 @@ Javascript (and popular libraries such as React, Angular, jQuery), Clojure/Cloju
 
 ## Recent Experience  
 
+### Open Life Science - co-founder
+_July 2019 - ongoing_ 
+Open Life Science is a training and mentoring organisation dedicated to advancing equitable open science by training and mentoring open science ambassadors. We run 16-week programs teaching participants about the basics of open science tooling and community building. Participants come from varied backgrounds including research software, hardware, wet lab, social sciences, anthropology and archaeology, and more. Our community currently has over 250 participants, mentors, and open science experts, and has trained 147 program participants to date. The fourth iteration will launch in September 2021. 
+
 ### Wellcome Trust - Open Source Technology Lead, Data For Science and Health
 _August 2020 - ongoing_  
+Management role leading open source and research software engineering related initiatives in the Data for Science and Health team. This role requires a combination of stakeholder management, internal and external speaking, and finding suitable candidates for technology-related grant awards and contracts that advance Wellcome's mission. Communicating the strategic importance of technical subjects to non-technical researchers and grantmakers was a significant part of this. 
 
+### Achievements include 
+- Grant award to the Research Software Alliance, funding work to define FAIR for software.
+- Funding ten Outreachy interns (an initiative helping more underrepresented and marginalised people work in open tech) specifically for research projects that advance Wellcome's strategy
+- Leading collaborations with external stakeholders, working on projects in Antimicrobial resistance and better clinical data sharing. 
 
 ### University of Cambridge - Software Engineer and Community Manager
 _July 2015 - July 2020_  
@@ -30,7 +39,7 @@ InterMine [http://intermine.org/](http://intermine.org/) is based at the Departm
 - Lead-authored a Wellcome Diversity Enrichment grant (Awarded in 2019 to Gos Micklem, the InterMine PI) to recruit three Outreachy interns. 
 - Authored two ELIXIR staff exchange grants (awarded 2019).
 - Successfully keeping ongoing engagement from previous Google Summer of Code students - five out of out six 2018 students returned as mentors, interns, or staff members in 2019. 
-- Highly effective community engagement via open source contributions - our last two team hires (on a stable, small team of seven with little turnover) have been either GSoC students or Hacktoberfest contributors. 
+- Highly effective community engagement via open source contributions - our last four team hires (on a stable, small team of seven with little turnover) have been either GSoC students or Hacktoberfest contributors. 
 - Implemented a [Code of Conduct](http://intermine.org/code-of-conduct/) for the InterMine projects.
 - Created an open-source cross-repository Github open ticket portal to help new contributors find issues suitable for their skills ([source](https://github.com/yochannah/first-ticket-finder), [demo](http://intermine.org/contributing/))
 
@@ -63,16 +72,18 @@ As a second-line analyst for HBOS (now part of Lloyds Banking Group), my role re
 ## Professional Activities
 - Co-founder, [Open Life Science](https://openlifesci.org/) (2019-ongoing)
 - Emeritus Editor, [Journal of Open Source Software](http://joss.theoj.org/about#editorial_board) (2018-2019)
-- Channel Editor - [PLOS Open Source Toolkit](https://channels.plos.org/open-source-toolkit) (2018 - ongoing)
+- Channel Editor - [PLOS Open Source Toolkit](https://channels.plos.org/open-source-toolkit) (2018 - 2020)
 - Board Member - Open Bioinformatics Foundation (2018)
 - Fellow - Software Sustainability Institute - [software.ac.uk](http://www.software.ac.uk) (2018 - ongoing)
 - Mentor and Cohort Host - [Mozilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/round-6/schedule/) (2018 - 2019)
 - Certified Instructor - Software & Data Carpentry / [The Carpentries](https://carpentries.org/instructors/) (2018)
-- [BioJS](http://biojs.net/) leadership team member (2017 - ongoing)
+- [BioJS](http://biojs.net/) leadership team member (2017 - 2019)
 - Lead Instructor - [CodeFirst: Girls beginners coding course](https://www.codefirstgirls.org.uk/) (2017 - 2019)
 
 ## Events, Talks and Workshops
-- [SSI Collaborations Workshop 2020](https://software.ac.uk/cw20) (Upcoming) Mini workshop - [Open Life Science: Empowering communities with open* principles](https://software.ac.uk/cw20/mini-workshops-and-demo-sessions)
+- [SSI Collaborations Workshop 2021](https://software.ac.uk/cw21) - Sponsored.
+- 
+- [SSI Collaborations Workshop 2020](https://software.ac.uk/cw20) Mini workshop - [Open Life Science: Empowering communities with open* principles](https://software.ac.uk/cw20/mini-workshops-and-demo-sessions)
 - [CHAOSSCon 2020](https://chaoss.community/chaosscon-2020-eu/) - Talk - Open and Reproducible Research with Community-driven Research Software Metrics (Co-facilitated with Emmy Tsang & Mateusz Kuzak)
 - [PAG 2020](https://plan.core-apps.com/pag_2020/event/24647d2a9d9fb82ee81fa3e79dc0eae4) Talk - Integrated Data and Cross-Organism Queries with InterMine. 
 - [MozFest 2019](https://mozillafestival.org) Facilitator - Openness space, ran several collaborative sessions - "Exhausted imposters and superstar masks", "[Design your own mentorship program](https://foundation.mozilla.org/en/blog/lets-build-an-effective-mentorship-programme-together/)", presented at the Mozilla Open Leaders launch party, and science festival. 
