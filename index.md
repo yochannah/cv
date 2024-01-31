@@ -24,9 +24,10 @@ Javascript (and popular libraries such as React, Angular, jQuery), Clojure/Cloju
 _July 2019 - founded. Feb 2022 - ongoing as Executive Director_  
 Open Life Science is a training and mentoring organisation dedicated to advancing equitable open science by training and mentoring open science ambassadors. We run 16-week programs teaching participants about the basics of open science tooling and community building. Participants come from varied backgrounds including research software, hardware, wet lab, social sciences, anthropology and archaeology, and more. Our community currently has over 400 participants, mentors, and open science experts, and has trained 147 program participants to date, and as of August 2022 we're running our 6th iteration of training.
 
-#### Current Funding
+#### Recent Funding
 - £99,999 GBP from the Wellcome Trust, 2022-2023
 - $574,945 USD from the Chan Zuckerburg Initiative, 2022-2023
+- $1.2 million USD (jointly with MetaDocencia) from NASA, 2023-2026
 
 ### Wellcome Trust - Open Source Technology Lead, Data For Science and Health
 _August 2020 - Jan 2022_  
